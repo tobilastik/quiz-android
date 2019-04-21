@@ -31,7 +31,11 @@ class QuizScreen extends Component {
 		this.props.highScoreLife();
 		this.props.highScoreTime();
 	}
-
+  bannerError() {
+    console.log("An error");
+    return;
+  }
+  
 	render() {
 		const { ScoreLife, ScoreTime } = this.state;
 

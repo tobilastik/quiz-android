@@ -26,7 +26,7 @@ export default class ShareScreen extends React.Component {
   openEmail = () => {
 	MailComposer.composeAsync({
 		recipients: ['jcolequotesandlyricsgame@gmail.com'],
-		subject: 'J Cole Lyrics and Game App',
+		subject: 'J Cole Lyrics Quiz',
 		body: 'Hello there, ',
 	});
 };

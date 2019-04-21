@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "J Cole Quotes and Lyrics Quiz",
+    "name": "J Cole Lyrics Quiz",
     "slug": "quotes-lyricsquiz",
     "privacy": "public",
     "sdkVersion": "32.0.0",
@@ -24,7 +24,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "package": "com.Jcole.jcolequotesandlyricsquizios"
+      "bundleIdentifier": "com.Jcole.jcolequotesandlyricsquizios"
     },
 
     "android": {

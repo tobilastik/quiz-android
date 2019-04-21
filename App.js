@@ -1,5 +1,5 @@
-import React, { Component } from "react";
-import { Image, Text, ScrollView, DrawerItems } from "react-native";
+import React from "react";
+import { Image } from "react-native";
 import {
   createSwitchNavigator,
   createAppContainer,
@@ -10,13 +10,11 @@ import {
 import Icon from "@expo/vector-icons/Ionicons";
 import QuoteScreen from "./app/components/QuoteScreen";
 import BioScreen from "./app/components/BioScreen";
-import RemoveAds from "./app/components/RemoveAds";
 import EmailComposer from "./app/components/EmailComposer";
 import ShareScreen from "./app/components/ShareScreen";
 import QuizScreen from "./app/components/QuizScreen";
 import MultipleChoice from "./app/components/MultipleChoice";
 import TimeGame from "./app/components/TimeGame";
-//import SideMenu from "./app/components/SideMenu"
 import { Ionicons } from "@expo/vector-icons";
 import store from "./app/redux/store";
 import { Provider } from "react-redux";

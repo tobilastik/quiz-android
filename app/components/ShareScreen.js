@@ -27,7 +27,7 @@ export default class ShareScreen extends React.Component {
     Share.share(
       {
         message:
-          "Hey, Check Out this J Cole Quotes and Lyrics Quiz, you will love it, you can download it on AppStore and Google Play Store. ",
+          "Hey, Check Out this J Cole Quotes and Lyrics Quiz, it contains over 200 J Cole lyrics, you can download it on AppStore and Google Play Store. ",
         url: "...",
         title: ""
       },
