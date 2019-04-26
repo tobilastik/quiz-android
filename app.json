@@ -28,7 +28,8 @@
     },
 
     "android": {
-			"package": "com.Jcole.jcolequotesandlyricsquizandroid"
+      "package": "com.Jcole.jcolequotesandlyricsquizandroid",
+      "versionCode": 2
     },
     
     "description": "This app contains over 200 J Cole Quotes and you also a Lyrics Quiz, where you can test your knowledge on how well you know J Cole Songs"
